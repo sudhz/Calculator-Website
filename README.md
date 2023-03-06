@@ -4,7 +4,7 @@ This is a basic calculator website that was created by taking inspiration from a
 Preview
 -------
 <!-- Example HTML code within an .md file: -->
-<img src="https://i.imgur.com/XdGhc6x.png" alt="Calculator Preview" width="544" height="825">
+<img src="https://i.imgur.com/XdGhc6x.png" alt="Calculator Preview" width="408" height="619">
 
 Technologies Used
 -----------------
