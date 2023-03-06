@@ -16,7 +16,7 @@ Technologies Used
 How to Use
 ----------
 
-1.  Open ... in your web browser.
+1.  Open [this website](https://sudhz.github.io/Calculator-Website/) in your web browser.
 2.  Enter numbers and arithmetic operation to perform calculations.
 
 Functionality
