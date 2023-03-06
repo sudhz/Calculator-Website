@@ -4,7 +4,7 @@ This is a basic calculator website that was created by taking inspiration from a
 Preview
 -------
 
-![Calculator Preview](https://imgur.com/a/krwCXJ2)
+![Calculator Preview](https://i.imgur.com/XdGhc6x.png)
 
 Technologies Used
 -----------------
