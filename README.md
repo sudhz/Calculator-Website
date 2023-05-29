@@ -1,5 +1,5 @@
 # Calculator-Website
-This is a basic calculator website that was created by taking inspiration from a YouTube tutorial. This project is intended to showcase my skills and knowledge of HTML, CSS, and JavaScript.
+This is a basic calculator website which is intended to showcase my skills and knowledge of HTML, CSS, and JavaScript.
 
 Preview
 -------
