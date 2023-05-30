@@ -6,7 +6,7 @@ This is a basic calculator website which is intended to showcase my skills and k
 
 <!-- Example HTML code within an .md file: -->
 
-<img src="https://i.imgur.com/Rdnwo2V.png" alt="Calculator Preview" style="max-width: 100%; height: auto; width: auto; border-radius: 15px;">
+<img src="https://i.imgur.com/Rdnwo2V.png" alt="Calculator Preview" style="max-width: 50%; height: auto; width: auto;">
 
 ## Technologies Used
 
@@ -26,9 +26,3 @@ The calculator can perform basic arithmetic operations such as addition, subtrac
 ## Contributions
 
 This project is a basic implementation of a calculator website and not intended for resale or production use. However, contributions are welcome to improve its functionality and add new features.
-
-## Credits
-
-Credits go to the [YouTube Tutorial](https://youtu.be/QS6Y0ezhyCs) which was taken inspiration from to create this calculator website.
-
-Created by: Sudhanshu Makwana
