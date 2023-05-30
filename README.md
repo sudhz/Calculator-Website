@@ -6,7 +6,7 @@ This is a basic calculator website which is intended to showcase my skills and k
 
 <!-- Example HTML code within an .md file: -->
 
-<img src="https://i.imgur.com/Rdnwo2V.png" alt="Calculator Preview" style="max-width: 50%; height: auto; width: auto;">
+<img src="https://i.imgur.com/Rdnwo2V.png" alt="Calculator Preview">
 
 ## Technologies Used
 
