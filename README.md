@@ -21,7 +21,7 @@ This is a basic calculator website which is intended to showcase my skills and k
 
 ## Functionality
 
-The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes a clear button 'C' to clear the display and a backspace button '←' to remove the last character. The equal button '=' returns the result of the arithmetic operation entered.
+The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes a clear button 'AC' to clear the display and a backspace button '←' to remove the last character. The equal button '=' returns the result of the arithmetic operation entered.
 
 ## Contributions
 
