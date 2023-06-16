@@ -7,7 +7,7 @@
 .container {
   max-width: 28.125rem;
   margin: 10vh auto 0 auto;
-  font-family: "Gill Sans", sans-serif;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   box-shadow: 0rem 0rem 2.688rem 1.063rem rgba(153, 153, 153, 1);
   border-radius: 1.25rem;
   background-color: black;
