@@ -7,7 +7,6 @@ buttons.map((button) => {
         display.innerText = "";
         break;
       case "←":
-        //Removes the last character from the displayed text of the display element
         if (display.innerText) {
           display.innerText = display.innerText.slice(0, -1);
         }

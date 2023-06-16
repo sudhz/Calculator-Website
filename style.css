@@ -11,6 +11,12 @@
   box-shadow: 0rem 0rem 2.688rem 1.063rem rgba(153, 153, 153, 1);
   border-radius: 1.25rem;
   background-color: black;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
 }
 
 #display {
@@ -19,7 +25,7 @@
   height: 4.375rem;
   line-height: 4.375rem;
   padding: 1rem 0.5rem;
-  font-size: 3.125rem;
+  font-size: 2.5em;
 }
 
 .buttons {
@@ -28,7 +34,7 @@
   padding: 0.625rem;
 }
 
-.buttons > div {
+.buttons > button {
   margin: 0.313rem;
   border: 0.063rem;
 }
